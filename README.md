@@ -28,7 +28,7 @@ It took 1574.61 seconds to analyze 14236 comments in 8 posts in 1 subreddits.
 
 Posts analyzed saved in titles
 
-10 most mentioned picks:\
+10 most mentioned pick:\
 GME: 764\
 SPCE: 183\
 PLTR: 89\
