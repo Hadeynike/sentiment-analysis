@@ -24,11 +24,11 @@ picks_ayz = int     define # of picks for sentiment analysis
     
     
 ## Sample Output
-It took 1574.61 seconds to analyze 14236 comments in 8 posts in 1 subreddit.
+It took 1574.61 seconds to analyze 14236 comments in 8 posts in 1 subreddits.
 
 Posts analyzed saved in titles
 
-10 most mentioned pick:\
+10 most mentioned picks:\
 GME: 764\
 SPCE: 183\
 PLTR: 89\
