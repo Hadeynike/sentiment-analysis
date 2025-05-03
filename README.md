@@ -51,7 +51,7 @@ MVIS  &nbsp; 0.155  &nbsp; 0.698  &nbsp;&nbsp; 1.714    &nbsp;&nbsp;&nbsp;     -
 ![](sentiment.png)
 
 ## Data:
-Include US stocks with market cap > 100 Million, and prices above $3. It doesn't include penny stocks.\
+Include US stock with market cap > 100 Million, and prices above $3. It doesn't include penny stocks.\
 You can download data from here:\
 Source (US stocks):  https://www.nasdaq.com/market-activity/stocks/screener?exchange=nasdaq&letter=0&render=download\
 
