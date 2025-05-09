@@ -1,5 +1,5 @@
 # reddit-sentiment-analysis
-This program goes through reddit, finds the Top mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound values.  
+This program goes through reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound values.  
 
 ## Program Parameter
 <pre>
