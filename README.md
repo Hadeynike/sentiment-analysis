@@ -7,7 +7,7 @@ sub = []           sub-reddit to search
 post_flairs = {}    posts flairs to search || None flair is automatically considered
 goodAuth = {}       authors whom comments are allowed more than once
 uniqueCmt = True    allow one comment per author per symbol
-ignoreAuthP = {}    authors to ignore for posts
+ignoreAuthP = {}    authors to ignore for post
 ignoreAuthC = {}    authors to ignore for comment 
 upvoteRatio = float upvote ratio for post to be considered, 0.70 = 70%
 ups = int           define # of upvotes, post is considered if upvotes exceed this #
