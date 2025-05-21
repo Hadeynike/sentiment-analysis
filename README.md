@@ -23,7 +23,7 @@ picks_ayz = int     define # of picks for sentiment analysis
     python3 reddit-sentiment-analysis.py
     
     
-## Samples Output
+## Samples Outputs
 It took 1574.61 seconds to analyze 14236 comments in 8 posts in 1 subreddits.
 
 Posts analyzed saved in title
