@@ -1,7 +1,7 @@
 # reddit-sentiment-analysis
 This program goes through reddit, find the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound values.  
 
-## Program Parameters
+## Programs Parameters
 <pre>
 subs = []           sub-reddit to search
 post_flairs = {}    posts flairs to search || None flair is automatically considered
