@@ -11,7 +11,7 @@ blacklists = {'I', 'ARE',  'ON', 'GO', 'NOW', 'CAN', 'UK', 'SO', 'OR', 'OUT', 'S
 
 
 # adding wsb/reddit flavour to vader to improve sentiment analysis, score: 4.0 to -4.0
-new_words = {
+new_words = 
     'citron': -4.0,  
     'hidenburg': -4.0,        
     'moon': 4.0,
